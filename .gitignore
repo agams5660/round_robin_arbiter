@@ -1,0 +1,5 @@
+sim/
+*.vcd
+*.vvp
+*.log
+core
